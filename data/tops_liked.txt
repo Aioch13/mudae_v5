@@ -1,0 +1,1000 @@
+#1 - Zero Two - DARLING in the FRANXX
+#2 - Rem - Re:Zero kara Hajimeru Isekai Seikatsu
+#3 - Satoru Gojo - Jujutsu Kaisen
+#4 - Megumin - Kono Subarashii Sekai ni Shukufuku wo!
+#5 - Hatsune Miku - VOCALOID
+#6 - Nami - One Piece
+#7 - Asuna - Sword Art Online
+#8 - Monkey D. Luffy - One Piece
+#9 - Rias Gremory - High School DxD
+#10 - Saber - Fate/stay night
+#11 - Nezuko Kamado - Kimetsu no Yaiba
+#12 - Power - Chainsaw Man
+#13 - Naruto Uzumaki - Naruto
+#14 - Mikasa Ackerman - Attack on Titan
+#15 - Ram - Re:Zero kara Hajimeru Isekai Seikatsu
+#16 - Son Goku - Dragon Ball
+#17 - Roronoa Zoro - One Piece
+#18 - Mai Sakurajima - Seishun Buta Yarou
+#19 - Makima - Chainsaw Man
+#20 - Albedo - Overlord
+#21 - Levi - Attack on Titan
+#22 - Aqua - Kono Subarashii Sekai ni Shukufuku wo!
+#23 - Nico Robin - One Piece
+#24 - Emilia - Re:Zero kara Hajimeru Isekai Seikatsu
+#25 - Miku Nakano - 5-toubun no Hanayome
+#26 - Dio Brando - JoJo's Bizarre Adventure: Phantom Blood
+#27 - L - Death Note
+#28 - Sukuna - Jujutsu Kaisen
+#29 - Akame - Akame ga Kill!
+#30 - 2B - NieR: Automata
+#31 - Shinobu Kochou - Kimetsu no Yaiba
+#32 - Violet Evergarden - Violet Evergarden
+#33 - Hu Tao - Genshin Impact
+#34 - Killua Zoldyck - Hunter × Hunter
+#35 - Yumeko Jabami - Kakegurui
+#36 - Eren Jaeger - Attack on Titan
+#37 - Sanji - One Piece
+#38 - Esdeath - Akame ga Kill!
+#39 - Jotaro Kujo - JoJo's Bizarre Adventure: Stardust Crusaders
+#40 - Himiko Toga - Boku no Hero Academia
+#41 - Shiro - No Game No Life
+#42 - Ken Kaneki - Tokyo Ghoul
+#43 - Hinata Hyuuga - Naruto
+#44 - Chika Fujiwara - Kaguya-sama wa Kokurasetai
+#45 - Yuji Itadori - Jujutsu Kaisen
+#46 - Tanjirou Kamado - Kimetsu no Yaiba
+#47 - Sasuke Uchiha - Naruto
+#48 - Denji - Chainsaw Man
+#49 - Izuku Midoriya - Boku no Hero Academia
+#50 - Marin Kitagawa - Sono Bisque Doll wa Koi wo Suru
+#51 - Rin Tohsaka - Fate/stay night
+#52 - Kirby - Kirby's Dream Land
+#53 - Astolfo - Fate/Apocrypha
+#54 - Nino Nakano - 5-toubun no Hanayome
+#55 - Akeno Himejima - High School DxD
+#56 - Kaguya Shinomiya - Kaguya-sama wa Kokurasetai
+#57 - Shoto Todoroki - Boku no Hero Academia
+#58 - Guts - Berserk
+#59 - Darkness - Kono Subarashii Sekai ni Shukufuku wo!
+#60 - Erza Scarlet - Fairy Tail
+#61 - Katsuki Bakugou - Boku no Hero Academia
+#62 - Osamu Dazai - Bungou Stray Dogs
+#63 - Itachi Uchiha - Naruto
+#64 - Yor Forger - SPY×FAMILY
+#65 - Kurumi Tokisaki - Date A Live
+#66 - Joker - Persona 5
+#67 - Raphtalia - Tate no Yuusha no Nariagari
+#68 - Frieren - Sousou no Frieren
+#69 - Vegeta - Dragon Ball Z
+#70 - Rei Ayanami - Neon Genesis Evangelion
+#71 - Hange Zoë - Attack on Titan
+#72 - Raiden Shogun - Genshin Impact
+#73 - Nobara Kugisaki - Jujutsu Kaisen
+#74 - Megumi Fushiguro - Jujutsu Kaisen
+#75 - Maki Zenin - Jujutsu Kaisen
+#76 - Mitsuri Kanroji - Kimetsu no Yaiba
+#77 - Ganyu - Genshin Impact
+#78 - Sinon - Sword Art Online
+#79 - Komi Shouko - Komi-san wa, Comyushou desu.
+#80 - Xiao - Genshin Impact
+#81 - Zhongli - Genshin Impact
+#82 - Gawr Gura - hololive
+#83 - Tohru - Kobayashi-san Chi no Maid Dragon
+#84 - Kirito - Sword Art Online
+#85 - Gon Freecss - Hunter × Hunter
+#86 - Light Yagami - Death Note
+#87 - Toji Fushiguro - Jujutsu Kaisen
+#88 - Giyuu Tomioka - Kimetsu no Yaiba
+#89 - C.C. - Code Geass: Hangyaku no Lelouch
+#90 - Kanna Kamui - Kobayashi-san Chi no Maid Dragon
+#91 - Saitama - One Punch Man
+#92 - Ochako Uraraka - Boku no Hero Academia
+#93 - Sung Jin-Woo - Solo Leveling
+#94 - Joseph Joestar - JoJo's Bizarre Adventure: Battle Tendency
+#95 - Kakashi Hatake - Naruto
+#96 - Boa Hancock - One Piece
+#97 - Kurapika - Hunter × Hunter
+#98 - Chiaki Nanami - Danganronpa 2: Goodbye Despair
+#99 - Kurisu Makise - Steins;Gate
+#100 - Asta - Black Clover
+#101 - Suguru Geto - Jujutsu Kaisen
+#102 - Ichigo Kurosaki - BLEACH
+#103 - Kento Nanami - Jujutsu Kaisen
+#104 - Jolyne Cujoh - JoJo's Bizarre Adventure: Stone Ocean
+#105 - Venti - Genshin Impact
+#106 - Rimuru Tempest - Tensei shitara Slime Datta Ken
+#107 - Asuka Langley Souryuu - Neon Genesis Evangelion
+#108 - Misa Amane - Death Note
+#109 - Sans - UNDERTALE
+#110 - Hestia - Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+#111 - Inosuke Hashibira - Kimetsu no Yaiba
+#112 - Ai Hayasaka - Kaguya-sama wa Kokurasetai
+#113 - Zenitsu Agatsuma - Kimetsu no Yaiba
+#114 - Reze - Chainsaw Man
+#115 - Jinx - League of Legends
+#116 - Ryuuko Matoi - Kill la Kill
+#117 - Tatsumaki - One Punch Man
+#118 - Lucy Heartfilia - Fairy Tail
+#119 - Shouyou Hinata - Haikyuu!!
+#120 - Diluc - Genshin Impact
+#121 - Tsunade - Naruto
+#122 - Dabi - Boku no Hero Academia
+#123 - Yuno Gasai - Mirai Nikki
+#124 - Tartaglia - Genshin Impact
+#125 - Kyoujurou Rengoku - Kimetsu no Yaiba
+#126 - Bongo Cat - Internet Cats
+#127 - Yoruichi Shihōin - BLEACH
+#128 - Yae Miko - Genshin Impact
+#129 - Tony Tony Chopper - One Piece
+#130 - Rikka Takanashi - Chuunibyou demo Koi ga Shitai!
+#131 - Nagito Komaeda - Danganronpa 2: Goodbye Despair
+#132 - Hisoka - Hunter × Hunter
+#133 - Hanako-kun - Jibaku Shounen Hanako-kun
+#134 - Rukia Kuchiki - BLEACH
+#135 - Kyouko Hori - Hori-san to Miyamura-kun
+#136 - Echidna - Re:Zero kara Hajimeru Isekai Seikatsu
+#137 - Fubuki - One Punch Man
+#138 - Yato - Noragami
+#139 - Spider-Man (Peter Parker) - Marvel
+#140 - Kyoko Kirigiri - Danganronpa: Trigger Happy Havoc
+#141 - Giorno Giovanna - JoJo's Bizarre Adventure: Golden Wind
+#142 - Chizuru Ichinose - Kanojo, Okarishimasu
+#143 - Anya Forger - SPY×FAMILY
+#144 - Furina - Genshin Impact
+#145 - Nagatoro-san - Ijiranaide, Nagatoro-san
+#146 - Mirko - Boku no Hero Academia
+#147 - Itsuki Nakano - 5-toubun no Hanayome
+#148 - Taiga Aisaka - Toradora!
+#149 - Sonic the Hedgehog - Sonic the Hedgehog
+#150 - Touka Kirishima - Tokyo Ghoul
+#151 - Tobio Kageyama - Haikyuu!!
+#152 - Lelouch Lamperouge - Code Geass: Hangyaku no Lelouch
+#153 - Batman (Bruce Wayne) - DC
+#154 - Howl - Howl's Moving Castle
+#155 - Yotsuba Nakano - 5-toubun no Hanayome
+#156 - Ichigo - DARLING in the FRANXX
+#157 - Edward Elric - Fullmetal Alchemist
+#158 - Monika - Doki Doki Literature Club!
+#159 - Ai Hoshino - 【OSHI NO KO】
+#160 - Tsuyu Asui - Boku no Hero Academia
+#161 - Junko Enoshima - Danganronpa: Trigger Happy Havoc
+#162 - Shinobu Oshino - Monogatari
+#163 - Leon S. Kennedy - Resident Evil 2
+#164 - Lucoa - Kobayashi-san Chi no Maid Dragon
+#165 - Chuuya Nakahara - Bungou Stray Dogs
+#166 - Shouko Nishimiya - Koe no Katachi
+#167 - Sasha Braus - Attack on Titan
+#168 - Erina Nakiri - Shokugeki no Souma
+#169 - Yamato - One Piece
+#170 - Madoka Kaname - Mahou Shoujo Madoka☆Magica
+#171 - Shigeo Kageyama - Mob Psycho 100
+#172 - Aki Hayakawa - Chainsaw Man
+#173 - Sakura Haruno - Naruto
+#174 - Dante - Devil May Cry
+#175 - Pikachu - Pokémon: Indigo League
+#176 - Kenma Kozume - Haikyuu!!
+#177 - Hawks - Boku no Hero Academia
+#178 - Armin Arlert - Attack on Titan
+#179 - Kaeya - Genshin Impact
+#180 - Saiki Kusuo - Saiki Kusuo no Ψ Nan
+#181 - Raven - Teen Titans
+#182 - Trafalgar Law - One Piece
+#183 - Momo Yaoyorozu - Boku no Hero Academia
+#184 - Manjirou Sano - Tokyo卍Revengers
+#185 - Lucy - Cyberpunk: Edgerunners
+#186 - Kafka - Honkai: Star Rail
+#187 - Futaba Sakura - Persona 5
+#188 - Yuta Okkotsu - Jujutsu Kaisen
+#189 - Ban - Nanatsu no Taizai
+#190 - Yukino Yukinoshita - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+#191 - Hitori Gotou - Bocchi the Rock!
+#192 - Josuke Higashikata - JoJo's Bizarre Adventure: Diamond Is Unbreakable
+#193 - Portgas D. Ace - One Piece
+#194 - Kim Dokja - Omniscient Reader's Viewpoint
+#195 - Bulma - Dragon Ball
+#196 - Jibril - No Game No Life
+#197 - Izumi Miyamura - Hori-san to Miyamura-kun
+#198 - Ichika Nakano - 5-toubun no Hanayome
+#199 - Wanderer - Genshin Impact
+#200 - Kaori Miyazono - Shigatsu wa Kimi no Uso
+#201 - Eula - Genshin Impact
+#202 - Misato Katsuragi - Neon Genesis Evangelion
+#203 - Bowsette - Super Crown
+#204 - Madara Uchiha - Naruto
+#205 - Noelle Silva - Black Clover
+#206 - Roxy Migurdia - Mushoku Tensei
+#207 - Shrek - Shrek
+#208 - Toge Inumaki - Jujutsu Kaisen
+#209 - Shadow the Hedgehog - Sonic Adventure 2
+#210 - Yuri - Doki Doki Literature Club!
+#211 - Choso - Jujutsu Kaisen
+#212 - Cynthia - Pokémon Diamond/Pearl/Platinum
+#213 - Natsu Dragneel - Fairy Tail
+#214 - Son Gohan - Dragon Ball Z
+#215 - Kaedehara Kazuha - Genshin Impact
+#216 - Tengen Uzui - Kimetsu no Yaiba
+#217 - Ishtar - Fate/Grand Order
+#218 - Maomao - Kusuriya no Hitorigoto
+#219 - Tifa Lockhart - Final Fantasy VII
+#220 - Tooru Oikawa - Haikyuu!!
+#221 - Annie Leonhart - Attack on Titan
+#222 - Cloud Strife - Final Fantasy VII
+#223 - Jonathan Joestar - JoJo's Bizarre Adventure: Phantom Blood
+#224 - Rio Futaba - Seishun Buta Yarou
+#225 - Neferpitou - Hunter × Hunter
+#226 - Kanao Tsuyuri - Kimetsu no Yaiba
+#227 - Sebastian Michaelis - Black Butler
+#228 - Kobeni Higashiyama - Chainsaw Man
+#229 - Zuko - Avatar: The Last Airbender
+#230 - Homura Akemi - Mahou Shoujo Madoka☆Magica
+#231 - Mori Calliope - hololive
+#232 - Eijirou Kirishima - Boku no Hero Academia
+#233 - Usopp - One Piece
+#234 - 707 - Mystic Messenger
+#235 - Nao Tomori - Charlotte
+#236 - Karma Akabane - Assassination Classroom
+#237 - Kasane Teto - UTAU
+#238 - Shouta Aizawa - Boku no Hero Academia
+#239 - Truck-kun - 🤔
+#240 - Usagi Tsukino - Pretty Soldier Sailor Moon
+#241 - Keqing - Genshin Impact
+#242 - Shanks - One Piece
+#243 - Mary Saotome - Kakegurui
+#244 - Kagamine Rin - VOCALOID
+#245 - Mona - Genshin Impact
+#246 - All Might - Boku no Hero Academia
+#247 - Kokichi Ouma - Danganronpa V3: Killing Harmony
+#248 - Loid Forger - SPY×FAMILY
+#249 - Arataka Reigen - Mob Psycho 100
+#250 - Gilgamesh - Fate/stay night
+#251 - Jeanne d'Arc - Fate/Apocrypha
+#252 - Himeno - Chainsaw Man
+#253 - Natsuki - Doki Doki Literature Club!
+#254 - Hitagi Senjougahara - Monogatari
+#255 - Nero - Black Clover
+#256 - Ahri - League of Legends
+#257 - Senkuu Ishigami - Dr. STONE
+#258 - Crona - Soul Eater
+#259 - Sayori - Doki Doki Literature Club!
+#260 - Marceline - Adventure Time
+#261 - Fern - Sousou no Frieren
+#262 - Inugami Korone - hololive
+#263 - Artoria Pendragon (Alter) - Fate/stay night
+#264 - Nene Yashiro - Jibaku Shounen Hanako-kun
+#265 - Meliodas - Nanatsu no Taizai
+#266 - Mario - Super Mario Bros.
+#267 - Arlecchino - Genshin Impact
+#268 - Orihime Inoue - BLEACH
+#269 - Ranpo Edogawa - Bungou Stray Dogs
+#270 - Johnny Joestar - JoJo's Bizarre Adventure: Steel Ball Run
+#271 - Brook - One Piece
+#272 - Kagamine Len - VOCALOID
+#273 - Ada Wong - Resident Evil 2
+#274 - Ai Ohto - Wonder Egg Priority
+#275 - Gyro Zeppeli - JoJo's Bizarre Adventure: Steel Ball Run
+#276 - Subaru Natsuki - Re:Zero kara Hajimeru Isekai Seikatsu
+#277 - Roy Mustang - Fullmetal Alchemist
+#278 - Wiz - Kono Subarashii Sekai ni Shukufuku wo!
+#279 - Genos - One Punch Man
+#280 - Muichirou Tokitou - Kimetsu no Yaiba
+#281 - Emma - Yakusoku no Neverland
+#282 - Beidou - Genshin Impact
+#283 - Pochita - Chainsaw Man
+#284 - Yuu Nishinoya - Haikyuu!!
+#285 - N - Pokémon Black/White
+#286 - Chrollo Lucilfer - Hunter × Hunter
+#287 - Ray - Yakusoku no Neverland
+#288 - Amelia Watson - hololive
+#289 - Mine - Akame ga Kill!
+#290 - Eris Boreas Greyrat - Mushoku Tensei
+#291 - Maka Albarn - Soul Eater
+#292 - Kamisato Ayaka - Genshin Impact
+#293 - Sōsuke Aizen - BLEACH
+#294 - Krista Lenz - Attack on Titan
+#295 - Denki Kaminari - Boku no Hero Academia
+#296 - Venom - Marvel
+#297 - Tamaki Kotatsu - Enen no Shouboutai
+#298 - Mina Ashido - Boku no Hero Academia
+#299 - Kyouka Jirou - Boku no Hero Academia
+#300 - Lisa - Genshin Impact
+#301 - Alice Synthesis Thirty - Sword Art Online
+#302 - Alucard (Hellsing) - Hellsing
+#303 - Kei Tsukishima - Haikyuu!!
+#304 - Vanitas - Vanitas no Carte
+#305 - Klee - Genshin Impact
+#306 - Shinoa Hiiragi - Owari no Seraph
+#307 - List (HxH) - Hunter × Hunter
+#308 - Momo Ayase - Dandadan
+#309 - Legosi - BEASTARS
+#310 - Crewmate - Among Us
+#311 - Makoto Niijima - Persona 5
+#312 - Gaara - Naruto
+#313 - Tetsurou Kuroo - Haikyuu!!
+#314 - Death the Kid - Soul Eater
+#315 - Jean - Genshin Impact
+#316 - Cha Hae-In - Solo Leveling
+#317 - Akaza - Kimetsu no Yaiba
+#318 - A2 - NieR: Automata
+#319 - OMORI - OMORI
+#320 - Yuno - Black Clover
+#321 - Megurine Luka - VOCALOID
+#322 - Amber - Genshin Impact
+#323 - Yoichi Isagi - Blue Lock
+#324 - Yelan - Genshin Impact
+#325 - Ann Takamaki - Persona 5
+#326 - Shinji Ikari - Neon Genesis Evangelion
+#327 - Ibuki Mioda - Danganronpa 2: Goodbye Despair
+#328 - Alice Nakiri - Shokugeki no Souma
+#329 - Juvia Lockser - Fairy Tail
+#330 - Koneko Toujou - High School DxD
+#331 - Mordred - Fate/Apocrypha
+#332 - Celestia Ludenberg - Danganronpa: Trigger Happy Havoc
+#333 - Vergil - Devil May Cry
+#334 - Sora - Kingdom Hearts
+#335 - Ado - Utaite
+#336 - Thorfinn - Vinland Saga
+#337 - Mikaela Hyakuya - Owari no Seraph
+#338 - Hua Cheng - Tian Guan Ci Fu
+#339 - Eri - Boku no Hero Academia
+#340 - Arataki Itto - Genshin Impact
+#341 - Maki Oze - Enen no Shouboutai
+#342 - Yoshikage Kira - JoJo's Bizarre Adventure: Diamond Is Unbreakable
+#343 - Booette - Super Crown
+#344 - Noriaki Kakyoin - JoJo's Bizarre Adventure: Stardust Crusaders
+#345 - Yoko - Tengen Toppa Gurren Lagann
+#346 - Tomoe - Kamisama Hajimemashita
+#347 - Senko - Sewayaki Kitsune no Senko-san
+#348 - Jeanne d'Arc (Alter) - Fate/Grand Order
+#349 - Vi - League of Legends
+#350 - Ash Lynx - Banana Fish
+#351 - Toph Beifong - Avatar: The Last Airbender
+#352 - Minato Namikaze - Naruto
+#353 - Deadpool (Wade Wilson) - Marvel
+#354 - Fischl - Genshin Impact
+#355 - Revy - Black Lagoon
+#356 - Mashiro Shiina - Sakurasou no Pet na Kanojo
+#357 - Bayonetta - Bayonetta
+#358 - Casca - Berserk
+#359 - Spike Spiegel - Cowboy Bebop
+#360 - Griffith - Berserk
+#361 - Ken Ryuuguuji - Tokyo卍Revengers
+#362 - Rin Okumura - Ao no Exorcist
+#363 - Nejire Hadou - Boku no Hero Academia
+#364 - Mitsuha Miyamizu - Kimi no Na wa.
+#365 - KAITO - VOCALOID
+#366 - Paimon - Genshin Impact
+#367 - Goro Akechi - Persona 5
+#368 - Ciel Phantomhive - Black Butler
+#369 - Yoimiya - Genshin Impact
+#370 - Android 18 - Dragon Ball Z
+#371 - Sephiroth - Final Fantasy VII
+#372 - Inuyasha - InuYasha
+#373 - Obanai Igurou - Kimetsu no Yaiba
+#374 - Houshou Marine - hololive
+#375 - Shenhe - Genshin Impact
+#376 - Usada Pekora - hololive
+#377 - Elma - Kobayashi-san Chi no Maid Dragon
+#378 - Midnight - Boku no Hero Academia
+#379 - SpongeBob SquarePants - SpongeBob SquarePants
+#380 - Tamaki Amajiki - Boku no Hero Academia
+#381 - Vladilena Milizé - 86 -Eighty Six-
+#382 - Shalltear Bloodfallen - Overlord
+#383 - Steve - Minecraft
+#384 - Yami Sukehiro - Black Clover
+#385 - Lumine - Genshin Impact
+#386 - Asa Mitaka - Chainsaw Man
+#387 - Ivan - ALIEN STAGE
+#388 - Nyan Cat - Internet Cats
+#389 - Holo - Ookami to Koushinryou
+#390 - Juuzou Suzuya - Tokyo Ghoul
+#391 - Aiz Wallenstein - Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+#392 - D.Va - Overwatch
+#393 - Albedo (GI) - Genshin Impact
+#394 - Luigi - Super Mario Bros.
+#395 - Stocking Anarchy - Panty & Stocking with Garterbelt
+#396 - Pieck Finger - Attack on Titan
+#397 - GUMI - VOCALOID
+#398 - Ferris - Re:Zero kara Hajimeru Isekai Seikatsu
+#399 - Krul Tepes - Owari no Seraph
+#400 - Tomura Shigaraki - Boku no Hero Academia
+#401 - Franky - One Piece
+#402 - Faye Valentine - Cowboy Bebop
+#403 - Yunyun - Kono Subarashii Sekai ni Shukufuku wo!
+#404 - Koutarou Bokuto - Haikyuu!!
+#405 - Yoru - Chainsaw Man
+#406 - Chitoge Kirisaki - Nisekoi
+#407 - Norman - Yakusoku no Neverland
+#408 - Soul Eater Evans - Soul Eater
+#409 - Eru Chitanda - Hyouka
+#410 - Nagisa Shiota - Assassination Classroom
+#411 - Nazuna Nanakusa - Yofukashi no Uta
+#412 - Tanya Degurechaff - Youjo Senki
+#413 - Obito Uchiha - Naruto
+#414 - Erwin Smith - Attack on Titan
+#415 - Xie Lian - Tian Guan Ci Fu
+#416 - Meguru Bachira - Blue Lock
+#417 - Sumi Sakurasawa - Kanojo, Okarishimasu
+#418 - Perona - One Piece
+#419 - BMO - Adventure Time
+#420 - Ruka Sarashina - Kanojo, Okarishimasu
+#421 - Godzilla - Godzilla
+#422 - Pico - Boku no Pico
+#423 - Winry Rockbell - Fullmetal Alchemist
+#424 - Robin - Teen Titans
+#425 - Milim Nava - Tensei shitara Slime Datta Ken
+#426 - Hana Uzaki - Uzaki-chan wa Asobitai!
+#427 - Hoshimachi Suisei - hololive
+#428 - Alastor - Hazbin Hotel
+#429 - Tohka Yatogami - Date A Live
+#430 - Ruby Rose - RWBY
+#431 - Kobayashi - Kobayashi-san Chi no Maid Dragon
+#432 - Elaina - Majo no Tabitabi
+#433 - Reki Kyan - SK∞
+#434 - Seishiro Nagi - Blue Lock
+#435 - Yui Hirasawa - K-ON!
+#436 - Xenovia Quarta - High School DxD
+#437 - Sangonomiya Kokomi - Genshin Impact
+#438 - Ryuk - Death Note
+#439 - Till - ALIEN STAGE
+#440 - Shuichi Saihara - Danganronpa V3: Killing Harmony
+#441 - Kaworu Nagisa - Neon Genesis Evangelion
+#442 - Sakura Matou - Fate/stay night
+#443 - Arthur Morgan - Red Dead Redemption 2
+#444 - Acheron - Honkai: Star Rail
+#445 - Gray Fullbuster - Fairy Tail
+#446 - Angel Devil - Chainsaw Man
+#447 - Lucy (EL) - Elfen Lied
+#448 - Gintoki Sakata - Gintama
+#449 - Yui Yuigahama - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+#450 - Pain - Naruto
+#451 - Nana Osaki - Nana
+#452 - Mikan Tsumiki - Danganronpa 2: Goodbye Despair
+#453 - Shirakami Fubuki - hololive
+#454 - Bruno Bucciarati - JoJo's Bizarre Adventure: Golden Wind
+#455 - Sabo - One Piece
+#456 - Filo - Tate no Yuusha no Nariagari
+#457 - Alhaitham - Genshin Impact
+#458 - Neuvillette - Genshin Impact
+#459 - Phosphophyllite - Houseki no Kuni
+#460 - Alphonse Elric - Fullmetal Alchemist
+#461 - Langa Hasegawa - SK∞
+#462 - Mizuki Akiyama - Project SEKAI: Colorful Stage!
+#463 - Elizabeth Liones - Nanatsu no Taizai
+#464 - Mikoto Misaka - Toaru
+#465 - Koushi Sugawara - Haikyuu!!
+#466 - Harley Quinn (Harleen Quinzel) - DC
+#467 - Leone - Akame ga Kill!
+#468 - Ninomae Ina'nis - hololive
+#469 - Akali - League of Legends
+#470 - Koro-sensei - Assassination Classroom
+#471 - Archer - Fate/stay night
+#472 - Starfire - Teen Titans
+#473 - Shikamaru Nara - Naruto
+#474 - Blade - Honkai: Star Rail
+#475 - Dan Heng - Honkai: Star Rail
+#476 - Mio Akiyama - K-ON!
+#477 - Mirai Kuriyama - Kyoukai no Kanata
+#478 - Nico Yazawa - Love Live! School idol project
+#479 - Merlin - Nanatsu no Taizai
+#480 - Suzune Horikita - Classroom of the Elite
+#481 - Nekomata Okayu - hololive
+#482 - Ryuunosuke Akutagawa - Bungou Stray Dogs
+#483 - Kiana Kaslana - Honkai Impact 3rd
+#484 - Nanachi - Made in Abyss
+#485 - Nero Claudius - Fate/EXTRA
+#486 - Rider - Fate/stay night
+#487 - Mahito - Jujutsu Kaisen
+#488 - Hajime Hinata - Danganronpa 2: Goodbye Despair
+#489 - Mash Kyrielight - Fate/Grand Order
+#490 - Raiden Mei - Honkai Impact 3rd
+#491 - Noelle - Genshin Impact
+#492 - Aang - Avatar: The Last Airbender
+#493 - Makoto Yuki - Persona 3
+#494 - Ainz Ooal Gown - Overlord
+#495 - Escanor - Nanatsu no Taizai
+#496 - Kazuma Kiryu - Yakuza
+#497 - Diane - Nanatsu no Taizai
+#498 - Ruby Hoshino - 【OSHI NO KO】
+#499 - Aventurine - Honkai: Star Rail
+#500 - Eto - Tokyo Ghoul
+#501 - Robert E. O. Speedwagon - JoJo's Bizarre Adventure: Phantom Blood
+#502 - Rangiku Matsumoto - BLEACH
+#503 - Shinra Kusakabe - Enen no Shouboutai
+#504 - Aigis - Persona 3
+#505 - Wei Wuxian - Mo Dao Zu Shi
+#506 - Lain Iwakura - Serial Experiments Lain
+#507 - Nightwing (Dick Grayson) - DC
+#508 - Yoo Joonghyuk - Omniscient Reader's Viewpoint
+#509 - Miia - Monster Musume no Iru Nichijou
+#510 - Garou - One Punch Man
+#511 - Zack - Angels of Death
+#512 - Aoi Todo - Jujutsu Kaisen
+#513 - Kyou Sohma - Fruits Basket
+#514 - Shizuku Murasaki - Hunter × Hunter
+#515 - Ellie - The Last of Us Part I
+#516 - Azula - Avatar: The Last Airbender
+#517 - Kratos - God of War
+#518 - Leorio Paladiknight - Hunter × Hunter
+#519 - Rebecca - Cyberpunk: Edgerunners
+#520 - Jumin Han - Mystic Messenger
+#521 - Stella Vermillion - Rakudai Kishi no Cavalry
+#522 - Kuromi - My Melody
+#523 - Papyrus - UNDERTALE
+#524 - Grell Sutcliff - Black Butler
+#525 - Ymir - Attack on Titan
+#526 - Atsushi Nakajima - Bungou Stray Dogs
+#527 - Tsubasa Hanekawa - Monogatari
+#528 - Tsukasa Yuzaki - Tonikaku Kawaii
+#529 - Kanade Tachibana - Angel Beats!
+#530 - Beatrice (RZ) - Re:Zero kara Hajimeru Isekai Seikatsu
+#531 - BASIL - OMORI
+#532 - Rui Kamishiro - Project SEKAI: Colorful Stage!
+#533 - Katara - Avatar: The Last Airbender
+#534 - Rock Lee - Naruto
+#535 - Spider-Man (Miles Morales) - Marvel
+#536 - Sanemi Shinazugawa - Kimetsu no Yaiba
+#537 - Meruem - Hunter × Hunter
+#538 - Alucard - Castlevania III: Dracula's Curse
+#539 - Sylphiette - Mushoku Tensei
+#540 - Shikimori-san - Kawaii dake ja Nai Shikimori-san
+#541 - Douma - Kimetsu no Yaiba
+#542 - Ningguang - Genshin Impact
+#543 - Bam - Tower of God
+#544 - Jesus - Saint☆Young Men
+#545 - Kiyotaka Ayanokouji - Classroom of the Elite
+#546 - Tamaki Suoh - Ouran High School Host Club
+#547 - Finn - Adventure Time
+#548 - Emu Otori - Project SEKAI: Colorful Stage!
+#549 - Delta - Kage no Jitsuryokusha ni Naritakute!
+#550 - Mirajane Strauss - Fairy Tail
+#551 - Kirari Momobami - Kakegurui
+#552 - Barack Obama - Political & Historical Figures
+#553 - Ereshkigal - Fate/Grand Order
+#554 - Razor - Genshin Impact
+#555 - Kaoruko Waguri - Kaoru Hana wa Rin to Saku
+#556 - Princess Peach - Super Mario Bros.
+#557 - Hello Kitty - Hello Kitty
+#558 - Nelliel Tu Odelschwanck - BLEACH
+#559 - Wriothesley - Genshin Impact
+#560 - Kisuke Urahara - BLEACH
+#561 - Mafuyu Satou - Given
+#562 - Darth Vader - Star Wars Original Trilogy
+#563 - Kana Arima - 【OSHI NO KO】
+#564 - Miles Edgeworth - Phoenix Wright: Ace Attorney
+#565 - Chifuyu Matsuno - Tokyo卍Revengers
+#566 - Elysia - Honkai Impact 3rd
+#567 - Aether - Genshin Impact
+#568 - Schwi Dola - No Game No Life
+#569 - Leafa - Sword Art Online
+#570 - Goro Majima - Yakuza
+#571 - Guido Mista - JoJo's Bizarre Adventure: Golden Wind
+#572 - Doge - 🤔
+#573 - Souma Yukihira - Shokugeki no Souma
+#574 - Iron Man (Tony Stark) - Marvel
+#575 - Quanxi - Chainsaw Man
+#576 - Jake - Adventure Time
+#577 - Diego Brando - JoJo's Bizarre Adventure: Steel Ball Run
+#578 - Yue - Arifureta Shokugyou de Sekai Saikyou
+#579 - Rin Itoshi - Blue Lock
+#580 - Mami Tomoe - Mahou Shoujo Madoka☆Magica
+#581 - Mirio Togata - Boku no Hero Academia
+#582 - Firefly - Honkai: Star Rail
+#583 - Caitlyn - League of Legends
+#584 - Kiryu Coco - hololive
+#585 - Kazuma Satou - Kono Subarashii Sekai ni Shukufuku wo!
+#586 - Ryuji Sakamoto - Persona 5
+#587 - Morgiana - Magi
+#588 - Makoto Naegi - Danganronpa: Trigger Happy Havoc
+#589 - Keiji Akaashi - Haikyuu!!
+#590 - Sakuya Izayoi - Touhou Koumakyou ~ the Embodiment of Scarlet Devil
+#591 - Miu Iruma - Danganronpa V3: Killing Harmony
+#592 - Rohan Kishibe - JoJo's Bizarre Adventure: Diamond Is Unbreakable
+#593 - Gundham Tanaka - Danganronpa 2: Goodbye Despair
+#594 - Hibana - Enen no Shouboutai
+#595 - Kamina - Tengen Toppa Gurren Lagann
+#596 - Kou Minamoto - Jibaku Shounen Hanako-kun
+#597 - Shuna - Tensei shitara Slime Datta Ken
+#598 - Phoenix Wright - Phoenix Wright: Ace Attorney
+#599 - Lionel Messi - FIFA
+#600 - Rintarou Okabe - Steins;Gate
+#601 - Riza Hawkeye - Fullmetal Alchemist
+#602 - Bishamon - Noragami
+#603 - Rosalina - Super Mario Galaxy
+#604 - Daki - Kimetsu no Yaiba
+#605 - Mari Setagaya - Itadaki! Seieki♡
+#606 - Mayuri Shiina - Steins;Gate
+#607 - Yuu Ishigami - Kaguya-sama wa Kokurasetai
+#608 - Muzan Kibutsuji - Kimetsu no Yaiba
+#609 - Mercy - Overwatch
+#610 - Jiraiya - Naruto
+#611 - Kamisato Ayato - Genshin Impact
+#612 - Mei Misaki - Another
+#613 - Vash the Stampede - Trigun
+#614 - Ken Takakura - Dandadan
+#615 - Iris - Enen no Shouboutai
+#616 - Undertaker - Black Butler
+#617 - Lisa Lisa - JoJo's Bizarre Adventure: Battle Tendency
+#618 - Jean-Pierre Polnareff - JoJo's Bizarre Adventure: Stardust Crusaders
+#619 - Chun-Li - Street Fighter II
+#620 - Chongyun - Genshin Impact
+#621 - Yona - Akatsuki no Yona
+#622 - Ryou Yamada - Bocchi the Rock!
+#623 - Kasumi Yoshizawa - Persona 5 Royal
+#624 - Naofumi Iwatani - Tate no Yuusha no Nariagari
+#625 - Mt. Lady - Boku no Hero Academia
+#626 - Pepe - 🤔
+#627 - Sucrose - Genshin Impact
+#628 - Sunday - Honkai: Star Rail
+#629 - Dawn - Pokémon Diamond/Pearl/Platinum
+#630 - Tooru Honda - Fruits Basket
+#631 - Hiyori Iki - Noragami
+#632 - Alluka Zoldyck - Hunter × Hunter
+#633 - Aerith Gainsborough - Final Fantasy VII
+#634 - Boothill - Honkai: Star Rail
+#635 - Alisa Mikhailovna Kujou - Tokidoki Bosotto Roshia-go de Dereru Tonari no Alya-san
+#636 - Hornet - Hollow Knight
+#637 - Nahida - Genshin Impact
+#638 - Konan - Naruto
+#639 - Sesshomaru - InuYasha
+#640 - Jinbe - One Piece
+#641 - Umaru Doma - Himouto! Umaru-chan
+#642 - Qiqi - Genshin Impact
+#643 - Chelsea - Akame ga Kill!
+#644 - Uruha Rushia - hololive
+#645 - Black Hanekawa - Monogatari
+#646 - Atsuko Kagari - Little Witch Academia
+#647 - Link (Unified Timeline) - The Legend of Zelda: Breath of the Wild
+#648 - Yuuki - Sword Art Online
+#649 - Keisuke Baji - Tokyo卍Revengers
+#650 - Vanilla - Nekopara
+#651 - Korra - The Legend of Korra
+#652 - Reimu Hakurei - Touhou Koumakyou ~ the Embodiment of Scarlet Devil
+#653 - Kaede Akamatsu - Danganronpa V3: Killing Harmony
+#654 - Sua - ALIEN STAGE
+#655 - Mudae-chan - Mudae's Mascot
+#656 - Haku - Spirited Away
+#657 - Akira Fudou - Devilman
+#658 - Monokuma - Danganronpa: Trigger Happy Havoc
+#659 - Hitoshi Shinsou - Boku no Hero Academia
+#660 - Siesta - The Detective Is Already Dead
+#661 - Kasumi Miwa - Jujutsu Kaisen
+#662 - Kaveh - Genshin Impact
+#663 - Fluttershy - My Little Pony: Friendship Is Magic
+#664 - Temari - Naruto
+#665 - Akane Kurokawa - 【OSHI NO KO】
+#666 - Caesar A. Zeppeli - JoJo's Bizarre Adventure: Battle Tendency
+#667 - Ulquiorra Cifer - BLEACH
+#668 - Samus Aran - Metroid
+#669 - Rize Kamishiro - Tokyo Ghoul
+#670 - Benimaru Shinmon - Enen no Shouboutai
+#671 - Ilulu - Kobayashi-san Chi no Maid Dragon
+#672 - 9S - NieR: Automata
+#673 - Gogeta - Dragon Ball Z: Fusion Reborn
+#674 - Diavolo - JoJo's Bizarre Adventure: Golden Wind
+#675 - Mizi - ALIEN STAGE
+#676 - Asia Argento - High School DxD
+#677 - Angel Dust - Hazbin Hotel
+#678 - Yanfei - Genshin Impact
+#679 - Cyno - Genshin Impact
+#680 - Haruhi Fujioka - Ouran High School Host Club
+#681 - Ghost - Call of Duty: Modern Warfare 2
+#682 - Destiny - { tákt op. }
+#683 - Reiner Braun - Attack on Titan
+#684 - Kaede Azusagawa - Seishun Buta Yarou
+#685 - Tsukasa Tenma - Project SEKAI: Colorful Stage!
+#686 - ZEN - Mystic Messenger
+#687 - Panty Anarchy - Panty & Stocking with Garterbelt
+#688 - Sousuke Mitsuba - Jibaku Shounen Hanako-kun
+#689 - Jing Yuan - Honkai: Star Rail
+#690 - Byakuya Togami - Danganronpa: Trigger Happy Havoc
+#691 - Kiyoko Shimizu - Haikyuu!!
+#692 - Son Hak - Akatsuki no Yona
+#693 - Kokushibou - Kimetsu no Yaiba
+#694 - Lady Dimitrescu - Resident Evil Village
+#695 - Connor - Detroit: Become Human
+#696 - Navia - Genshin Impact
+#697 - Walter White - Breaking Bad
+#698 - Haru Okumura - Persona 5
+#699 - Bennett - Genshin Impact
+#700 - Grimmjow Jaegerjaquez - BLEACH
+#701 - Isla - Plastic Memories
+#702 - Han Sooyoung - Omniscient Reader's Viewpoint
+#703 - Yusuke Kitagawa - Persona 5
+#704 - Narancia Ghirga - JoJo's Bizarre Adventure: Golden Wind
+#705 - Atsumu Miya - Haikyuu!!
+#706 - Miko Iino - Kaguya-sama wa Kokurasetai
+#707 - AUBREY - OMORI
+#708 - Uta - One Piece Film: Red
+#709 - Loki (Loki Laufeyson) - Marvel
+#710 - Anakin Skywalker - Star Wars Prequel Trilogy
+#711 - Naoto Shirogane - Persona 4
+#712 - Kanae Kochou - Kimetsu no Yaiba
+#713 - Chihiro Fujisaki - Danganronpa: Trigger Happy Havoc
+#714 - Rory Mercury - GATE
+#715 - Takumi Usui - Kaichou wa Maid-sama!
+#716 - Freddy Fazbear - Five Nights at Freddy's 1
+#717 - Ellen Joe - Zenless Zone Zero
+#718 - Mafuyu Asahina - Project SEKAI: Colorful Stage!
+#719 - Hyakkimaru - Dororo
+#720 - Chara - UNDERTALE
+#721 - Master Chief - Halo: Combat Evolved
+#722 - Serena - Pokémon X/Y
+#723 - Yuichiro Hyakuya - Owari no Seraph
+#724 - Tsumugi Kotobuki - K-ON!
+#725 - Kohaku - Dr. STONE
+#726 - Jean Kirstein - Attack on Titan
+#727 - Miles 'Tails' Prower - Sonic the Hedgehog 2
+#728 - Fyodor Dostoevsky - Bungou Stray Dogs
+#729 - Inori Yuzuriha - Guilty Crown
+#730 - Illyasviel von Einzbern - Fate/stay night
+#731 - The Knight - Hollow Knight
+#732 - Jinshi - Kusuriya no Hitorigoto
+#733 - Chisato Nishikigi - Lycoris Recoil
+#734 - Sabito - Kimetsu no Yaiba
+#735 - Victor Nikiforov - Yuri!!! on Ice
+#736 - Mei Mei - Jujutsu Kaisen
+#737 - Satsuki Kiryuuin - Kill la Kill
+#738 - Jill Valentine - Resident Evil 1
+#739 - Totoro - My Neighbor Totoro
+#740 - Rosaria - Genshin Impact
+#741 - Neptune - Hyperdimension Neptunia
+#742 - Minato Aqua - hololive
+#743 - Yuki Nagato - Suzumiya Haruhi no Yuuutsu
+#744 - Pyra - Xenoblade Chronicles 2
+#745 - Ino Yamanaka - Naruto
+#746 - Bill Cipher - Gravity Falls
+#747 - Nefertari Vivi - One Piece
+#748 - Rin - Shelter
+#749 - Lan Wangji - Mo Dao Zu Shi
+#750 - Lucina - Fire Emblem Awakening
+#751 - Spider-Gwen (Gwen Stacy) - Marvel
+#752 - Chocola - Nekopara
+#753 - Shouya Ishida - Koe no Katachi
+#754 - Ralsei - DELTARUNE
+#755 - Adrien Agreste - Miraculous: Tales of Ladybug & Cat Noir
+#756 - Mei Hatsume - Boku no Hero Academia
+#757 - Noé Archiviste - Vanitas no Carte
+#758 - Takanashi Kiara - hololive
+#759 - Red Hood (Jason Todd) - DC
+#760 - KEL - OMORI
+#761 - My Melody - My Melody
+#762 - Feitan Portor - Hunter × Hunter
+#763 - Yu Narukami - Persona 4
+#764 - Nakiri Ayame - hololive
+#765 - Jane Doe - Zenless Zone Zero
+#766 - Thoma - Genshin Impact
+#767 - Markiplier - Markiplier
+#768 - Yoshino - Date A Live
+#769 - Cinnamoroll - Cinnamoroll
+#770 - Aqua Hoshino - 【OSHI NO KO】
+#771 - Kenpachi Zaraki - BLEACH
+#772 - Ririka Momobami - Kakegurui
+#773 - Yukine - Noragami
+#774 - Unknown - Mystic Messenger
+#775 - Azusa Nakano - K-ON!
+#776 - Ash Ketchum - Pokémon: Indigo League
+#777 - Solid Snake - Metal Gear
+#778 - ENA - ENA
+#779 - Rudeus Greyrat - Mushoku Tensei
+#780 - Sagiri Izumi - Eromanga-sensei
+#781 - Khun Aguero Agnis - Tower of God
+#782 - Luka - ALIEN STAGE
+#783 - Kaidou Shun - Saiki Kusuo no Ψ Nan
+#784 - March 7th - Honkai: Star Rail
+#785 - MIYA - SK∞
+#786 - Cirno - Touhou Koumakyou ~ the Embodiment of Scarlet Devil
+#787 - Vegito - Dragon Ball Z
+#788 - Cid Kagenou - Kage no Jitsuryokusha ni Naritakute!
+#789 - Maki Harukawa - Danganronpa V3: Killing Harmony
+#790 - Aoi Asahina - Danganronpa: Trigger Happy Havoc
+#791 - Fushi - Fumetsu no Anata e
+#792 - Rin Matsuoka - Free!
+#793 - Raiden - Metal Gear Solid 2: Sons of Liberty
+#794 - Carrot - One Piece
+#795 - Illumi Zoldyck - Hunter × Hunter
+#796 - Barbara - Genshin Impact
+#797 - Haruhi Suzumiya - Suzumiya Haruhi no Yuuutsu
+#798 - King (NnT) - Nanatsu no Taizai
+#799 - Kanade Yoisaki - Project SEKAI: Colorful Stage!
+#800 - Ghostface - Scream
+#801 - Joel - The Last of Us Part I
+#802 - Konjiki no Yami - To LOVE-Ru
+#803 - Peko Pekoyama - Danganronpa 2: Goodbye Despair
+#804 - Simon - Tengen Toppa Gurren Lagann
+#805 - Takagi-san - Karakai Jouzu no Takagi-san
+#806 - Nana Komatsu - Nana
+#807 - Guren Ichinose - Owari no Seraph
+#808 - Mewtwo - Pokédex
+#809 - Sokka - Avatar: The Last Airbender
+#810 - Toothless - How To Train Your Dragon
+#811 - Akiko Yosano - Bungou Stray Dogs
+#812 - Mammon - Obey Me!
+#813 - Sakura Kinomoto - Cardcaptor Sakura
+#814 - Blair - Soul Eater
+#815 - Momo Belia Deviluke - To LOVE-Ru
+#816 - Origami Tobiichi - Date A Live
+#817 - Piccolo - Dragon Ball
+#818 - Zelda (Unified Timeline) - The Legend of Zelda: Breath of the Wild
+#819 - MEIKO - VOCALOID
+#820 - Bowser - Super Mario Bros.
+#821 - Vivy - Vivy -Fluorite Eye's Song-
+#822 - Miyuki Shirogane - Kaguya-sama wa Kokurasetai
+#823 - MARI - OMORI
+#824 - Touko Fukawa - Danganronpa: Trigger Happy Havoc
+#825 - Tetsuya Kuroko - Kuroko no Basuke
+#826 - Michael Kaiser - Blue Lock
+#827 - Maple - BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
+#828 - Ouro Kronii - hololive
+#829 - Mimosa Vermillion - Black Clover
+#830 - Ena Shinonome - Project SEKAI: Colorful Stage!
+#831 - Ayane Shirakawa - Overflow ~Iretara Afureru Shimai no Kimochi~
+#832 - Ritsuka Uenoyama - Given
+#833 - Sae Itoshi - Blue Lock
+#834 - Saeko Busujima - Highschool of the Dead
+#835 - Dracule Mihawk - One Piece
+#836 - Foxy - Five Nights at Freddy's 1
+#837 - Tōshirō Hitsugaya - BLEACH
+#838 - Kei Shirogane - Kaguya-sama wa Kokurasetai
+#839 - Neji Hyuuga - Naruto
+#840 - Princess Bubblegum - Adventure Time
+#841 - Deidara - Naruto
+#842 - Hiro - DARLING in the FRANXX
+#843 - Asuka Langley Shikinami - Rebuild of Evangelion
+#844 - Dainsleif - Genshin Impact
+#845 - Lux - League of Legends
+#846 - Rainbow Dash - My Little Pony: Friendship Is Magic
+#847 - Ranni - ELDEN RING
+#848 - Rika Kawai - Wonder Egg Priority
+#849 - Ben Tennyson - Ben 10
+#850 - Haruka Nanase - Free!
+#851 - Mew - Pokédex
+#852 - Eevee - Pokédex
+#853 - Neco-Arc - Tsukihime
+#854 - Rei Hino - Pretty Soldier Sailor Moon
+#855 - Whitebeard - One Piece
+#856 - Loona - Helluva Boss
+#857 - Weiss Schnee - RWBY
+#858 - Yang Xiao Long - RWBY
+#859 - Superman (Clark Kent) - DC
+#860 - Stolas - Helluva Boss
+#861 - Orochimaru - Naruto
+#862 - Baki Hanma - Baki
+#863 - Gorou - Genshin Impact
+#864 - Shion (TenSura) - Tensei shitara Slime Datta Ken
+#865 - HERO - OMORI
+#866 - Kotori Itsuka - Date A Live
+#867 - Doom Slayer - DOOM
+#868 - Lancer - Fate/stay night
+#869 - Frisk - UNDERTALE
+#870 - Bell Cranel - Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+#871 - Sayaka Miki - Mahou Shoujo Madoka☆Magica
+#872 - Wendy Marvell - Fairy Tail
+#873 - Sawako Kuronuma - Kimi ni Todoke
+#874 - Yui - Angel Beats!
+#875 - Mako Mankanshoku - Kill la Kill
+#876 - Nadeko Sengoku - Monogatari
+#877 - Kosaki Onodera - Nisekoi
+#878 - Gabimaru the Hollow - Hell's Paradise: Jigokuraku
+#879 - Gwen - Total Drama Island
+#880 - Kallen Stadtfeld - Code Geass: Hangyaku no Lelouch
+#881 - Fumikage Tokoyami - Boku no Hero Academia
+#882 - Goku Black - Dragon Ball Super
+#883 - Sonia Nevermind - Danganronpa 2: Goodbye Despair
+#884 - Ray (AoD) - Angels of Death
+#885 - Misty - Pokémon Red/Green/Blue/Yellow
+#886 - 🎀OMGkawaii🎀Angel-chan - NEEDY GIRL OVERDOSE
+#887 - Daisuke Kambe - Fugou Keiji: Balance:Unlimited
+#888 - Mereoleona Vermillion - Black Clover
+#889 - Herta - Honkai: Star Rail
+#890 - Hyuna - ALIEN STAGE
+#891 - Ikuyo Kita - Bocchi the Rock!
+#892 - Cherry blossom - SK∞
+#893 - Rantaro Amami - Danganronpa V3: Killing Harmony
+#894 - Ponyo - Ponyo
+#895 - Ironmouse - Independent Virtual YouTubers
+#896 - Alpha - Kage no Jitsuryokusha ni Naritakute!
+#897 - May - Pokémon Ruby/Sapphire/Emerald
+#898 - Tae Takemi - Persona 5
+#899 - Marcille Donato - Dungeon Meshi
+#900 - Nanashi Mumei - hololive
+#901 - Columbina - Genshin Impact
+#902 - Satella - Re:Zero kara Hajimeru Isekai Seikatsu
+#903 - Earth-chan - Gijinka Series
+#904 - Mio Naruse - Shinmai Maou no Testament
+#905 - Ekko - League of Legends
+#906 - Nessa - Pokémon Sword/Shield
+#907 - Konata Izumi - Lucky☆Star
+#908 - Kris - DELTARUNE
+#909 - Arthur Leywin - The Beginning After the End
+#910 - Yae Sakura - Honkai Impact 3rd
+#911 - Lala Satalin Deviluke - To LOVE-Ru
+#912 - Akito Shinonome - Project SEKAI: Colorful Stage!
+#913 - Celty Sturluson - Durarara!!
+#914 - Eiji Okumura - Banana Fish
+#915 - Near - Death Note
+#916 - Sparkle - Honkai: Star Rail
+#917 - Sinbad - Magi
+#918 - Hyoma Chigiri - Blue Lock
+#919 - Catra - She-Ra and the Princesses of Power
+#920 - Sayu Ogiwara - Hige wo Soru. Soshite Joshikosei wo Hiro.
+#921 - Nanika - Hunter × Hunter
+#922 - Seras Victoria - Hellsing
+#923 - Mai - Avatar: The Last Airbender
+#924 - San - Princess Mononoke
+#925 - Franken Stein - Soul Eater
+#926 - Evelynn - League of Legends
+#927 - Rui Tachibana - Domestic na Kanojo
+#928 - Shirou Emiya - Fate/stay night
+#929 - Uncle Iroh - Avatar: The Last Airbender
+#930 - Xingqiu - Genshin Impact
+#931 - Morgana - Persona 5
+#932 - Rindou Kobayashi - Shokugeki no Souma
+#933 - Geralt of Rivia - The Witcher
+#934 - Kuroka - High School DxD
+#935 - Eugeo - Sword Art Online
+#936 - Yami Yugi - Yu-Gi-Oh! Duel Monsters
+#937 - Runa Yomozuki - Kakegurui
+#938 - Asuka - Senran Kagura: Portrait of Girls
+#939 - Mahiru Shiina - Otonari no Tenshi-sama ni Itsu no Ma ni ka Dame Ningen ni Sareteita Ken
+#940 - Knuckles the Echidna - Sonic the Hedgehog 3
+#941 - Edelgard - Fire Emblem: Three Houses
+#942 - Overhaul - Boku no Hero Academia
+#943 - Mythra - Xenoblade Chronicles 2
+#944 - Adam - Record of Ragnarok
+#945 - Ramona Flowers - Scott Pilgrim
+#946 - Tomoko Kuroki - Watashi ga Motenai no wa dō Kangaetemo Omaera ga Warui!
+#947 - Chise Hatori - Mahoutsukai no Yome
+#948 - Viktor - League of Legends
+#949 - Foo Fighters - JoJo's Bizarre Adventure: Stone Ocean
+#950 - Scarlet Witch (Wanda Maximoff) - Marvel
+#951 - Ceres Fauna - hololive
+#952 - Vaporeon - Pokédex
+#953 - Cheng Xiaoshi - LINK CLICK
+#954 - Amity Blight - The Owl House
+#955 - Satori Tendou - Haikyuu!!
+#956 - Pinkie Pie - My Little Pony: Friendship Is Magic
+#957 - Jeanne - Vanitas no Carte
+#958 - James - Pokémon: Indigo League
+#959 - Trunks (Present) - Dragon Ball Z
+#960 - Ryu Lion - Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+#961 - Soi Fon - BLEACH
+#962 - Kumoko - Kumo Desu ga, Nani ka?
+#963 - Marina - Splatoon 2
+#964 - Frieza - Dragon Ball Z
+#965 - Blake Belladonna - RWBY
+#966 - Lu Guang - LINK CLICK
+#967 - Donquixote Doflamingo - One Piece
+#968 - Mitsuru Kirijo - Persona 3
+#969 - Tier Harribel - BLEACH
+#970 - Midari Ikishima - Kakegurui
+#971 - Funny Valentine - JoJo's Bizarre Adventure: Steel Ball Run
+#972 - Marisa Kirisame - Touhou Koumakyou ~ the Embodiment of Scarlet Devil
+#973 - Kushina Uzumaki - Naruto
+#974 - David Martinez - Cyberpunk: Edgerunners
+#975 - Lara Croft - Tomb Raider
+#976 - Okita Souji - Fate/KOHA-ACE
+#977 - Charlotte Katakuri - One Piece
+#978 - Widowmaker - Overwatch
+#979 - Garfield - Garfield
+#980 - William Afton - Five Nights at Freddy's 2
+#981 - Jung Kook - BTS
+#982 - Nikolai Gogol - Bungou Stray Dogs
+#983 - Johan Liebert - Monster
+#984 - Megumi Tadokoro - Shokugeki no Souma
+#985 - Toriel - UNDERTALE
+#986 - Michiru Kagemori - BNA: Brand New Animal
+#987 - Mafumafu - Utaite
+#988 - Kyouka Izumi - Bungou Stray Dogs
+#989 - Kagura - Gintama
+#990 - Falin Touden - Dungeon Meshi
+#991 - Tsukasa Yugi - Jibaku Shounen Hanako-kun
+#992 - Seele Vollerei - Honkai Impact 3rd
+#993 - Yuri Plisetsky - Yuri!!! on Ice
+#994 - Kyouko Sakura - Mahou Shoujo Madoka☆Magica
+#995 - Shishiro Botan - hololive
+#996 - Optimus Prime - Transformers
+#997 - Sora (NGNL) - No Game No Life
+#998 - Sett - League of Legends
+#999 - Misaki Ayuzawa - Kaichou wa Maid-sama!
+#1,000 - Miko Yotsuya - Mieruko-chan
